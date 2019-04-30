@@ -16,3 +16,5 @@ textAlign(LEFT, BOTTOM);
 fill(0,255,0);
 text(v,0,1100);
 }
+Function math xv (+)(-)1 (-)(+)2 (+)(-)3(+)(-)4
+Function math yv (+)(-)1 (-)(+)2 (+)(-)3(+)(-)4
